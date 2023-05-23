@@ -1,0 +1,2 @@
+# Profitability-Analysis-with-Monte-Carlo-Simulation-for-Bank-Loan-Approval
+This repo analyzes the profitability of approving a bank loan for two projects by using Monte Carlo Simulation. Based on a Harvard Business Review case study, it considers cash flow uncertainty and investment returns. The analysis simulates various scenarios, offering insights for informed decision-making on the loan's potential profitability.
