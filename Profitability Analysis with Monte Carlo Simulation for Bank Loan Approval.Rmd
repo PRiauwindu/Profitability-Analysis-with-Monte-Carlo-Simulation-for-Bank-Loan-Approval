@@ -25,7 +25,7 @@ The objective of this case analysis is to determine the optimal loan arrangement
 
 The initial financial analysis of the profitability of the office park and residential neighborhood project options (Table 1 Below) for CDC and SBT reveals that both project options are profitable for both CDC and SBT. The estimated cumulative CDC Free Cash Flow (FCF) for both Office Park and Residential are $10,142,000 and $9,088,000 respectively while the estimated cumulative SBT FCF for both Office Park and Residential are the same at $8,636,030. The higher Office Park project FCF for CDC might suggest that this project is more profitable over the residential project. It is essential to note that these estimates are based on several assumptions and projections about future market conditions, construction costs, and other factors that may affect the profitability of each project option.
 
-![Table 1: Comparison of Residential and Commercial Projects](table1.png){width=50%}{height=50%}
+![Table 1: Comparison of Residential and Commercial Projects](table1.png){width=50%}
 
 
 **2. Office Building Development Historical Data**
@@ -33,7 +33,7 @@ The initial financial analysis of the profitability of the office park and resid
 Table 2 below displays historical data on three-year business development loans from SBT to CDC for constructing office buildings in Houston, Texas. SBT observed that the difference between stated and realized sales for office projects was associated with the leading indicator of economic outlook because changes in the economic outlook can affect the demand for office buildings and, therefore, impact the actual sales of CDC's projects.
 For example, if the economic outlook is optimistic, there may be more demand for office space, resulting in higher realized sales than initially stated. Conversely, if the economic outlook is pessimistic, there may be less demand for office space, resulting in lower realized sales than initially stated. A correlation between the leading indicator of the economic outlook and the difference between stated and realized sales for CDC's office building projects might be able to assist in the deep dive analysis for the loan proposal analysis.
 
-![Table 2: Office Building Development Historical Data](table2.png){width=50%}{height=50%}
+![Table 2: Office Building Development Historical Data](table2.png){width=50%}
 
 ## Methodology and Process
 
