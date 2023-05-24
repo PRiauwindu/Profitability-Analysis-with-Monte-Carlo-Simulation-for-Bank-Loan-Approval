@@ -1,5 +1,7 @@
 # Profitability Analysis with Monte Carlo Simulation for Bank Loan Approval
 
+GitHub Pages: https://priauwindu.github.io/Profitability-Analysis-with-Monte-Carlo-Simulation-for-Bank-Loan-Approval/
+
 ### Description:
 This repository presents a comprehensive analysis on the profitability of approving a bank loan for funding two distinct projects, based on the case study of Crawford Development Co. and Southeast Bank of Texas from Harvard Business Review. The analysis employs Monte Carlo Simulation, taking into account the inherent uncertainty in cash flows and investment returns associated with the projects. By simulating a large number of scenarios, the analysis provides insights into the potential profitability of the loan and assists in making informed decisions.
 
